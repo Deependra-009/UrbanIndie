@@ -2,6 +2,8 @@
 
 ![Project Logo](link_to_logo_image)
 
+For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.
+
 ## Overview
 
 This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It aims to provide a user-friendly and interactive platform for customers to browse and purchase clothes online. The website offers a wide range of clothing items, including apparel for men, women, and kids, along with various accessories.
@@ -35,7 +37,7 @@ This project is an online clothing store, inspired by popular fashion websites l
 - Database: MongoDB (or any other preferred database)
 - Payment Gateway Integration: [Payment Gateway Provider Name]
 
-For collaboration and access to project files, please contact me via email at [your-email@example.com] to request access to the private repository.
+For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.
 
 I have attached images of the project in the "images" directory. Please take a look to get an overview of the website's design and user interface.
 
