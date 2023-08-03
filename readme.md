@@ -9,7 +9,7 @@ For collaboration and access to project files, please contact me via email at [d
 This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It aims to provide a user-friendly and interactive platform for customers to browse and purchase clothes online. The website offers a wide range of clothing items, including apparel for men, women, and kids, along with various accessories.
 
 ## Technology Used:
-Backend: Java, SpringBoot, OAuth Google Sign In (one tap) <br>
+Backend: Java, SpringBoot, Microservices, OAuth Google Sign In (one tap) <br>
 Database: MongoDB<br>
 Frontend: Angular
 
