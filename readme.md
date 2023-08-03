@@ -1,6 +1,6 @@
-# UrbanIndie
+# UrbanIndie  ![Project Logo](./Images/Vector.png)  (InProgress)
 
-![Project Logo](link_to_logo_image)
+
 
 For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.
 
@@ -40,6 +40,12 @@ This project is an online clothing store, inspired by popular fashion websites l
 For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.
 
 I have attached images of the project in the "images" directory. Please take a look to get an overview of the website's design and user interface.
+
+
+![Project Logo](./Images/image-31.png)
+![Project Logo](./Images/image-35.png)
+![Project Logo](./Images/image-44.png)
+![Project Logo](./Images/image-54.png)
 
 
 
