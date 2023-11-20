@@ -47,10 +47,33 @@ For collaboration and access to project files, please contact me via email at [d
 I have attached images of the project in the "images" directory. Please take a look to get an overview of the website's design and user interface.
 
 
-![Project Logo](./Images/image-31.png)
-![Project Logo](./Images/image-35.png)
-![Project Logo](./Images/image-44.png)
-![Project Logo](./Images/image-54.png)
+<img src="https://drive.google.com/uc?export=view&id=1N-msX_JEDVI6d2zTJLROCFxXtHn270m4">
+
+<img src="https://drive.google.com/uc?export=view&id=1JrwxZKR4C_dPqMuV54VzHDA8BWL1L8pS">
+
+<img src="https://drive.google.com/uc?export=view&id=1zUH8qx-sGgIRaFmkuZ2pWGIoLqOPnSNS">
+
+<img src="https://drive.google.com/uc?export=view&id=1CPIP7YKZfX6r-TzrwgLmVK7u6Aw3pvcr">
+
+<img src="https://drive.google.com/uc?export=view&id=15Uyivkag-7Pm6DVvYDTJfjuVaOlcYeno">
+
+<img src="https://drive.google.com/uc?export=view&id=1lnuwHMPGAYC4MB3ss5b8Y-tElmdImviE">
+
+<img src="https://drive.google.com/uc?export=view&id=18ByowTv6MIIj4LFD0DMwyYOwExLmDQsJ">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+<img src="https://drive.google.com/uc?export=view&id=xxx">
+
+
 
 
 
