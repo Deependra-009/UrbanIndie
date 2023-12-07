@@ -4,9 +4,14 @@
 
 For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.
 
+<img height="30" width="30" src="./Images/play.png"></img>
+<a href="https://mega.nz/file/9Px3UJ6a#2QZG4IdrGOw_MIU3ug_Msi5RmoWmIr2HDZyRapdBWUU">Watch the video</a>
+
 ## Overview
 
 This project is an online clothing store, inspired by popular fashion websites like Myntra and Ajio. It aims to provide a user-friendly and interactive platform for customers to browse and purchase clothes online. The website offers a wide range of clothing items, including apparel for men, women, and kids, along with various accessories.
+
+
 
 ## Technology Used:
 Backend: Java, SpringBoot, Microservices, OAuth Google Sign In (one tap) <br>
