@@ -1,4 +1,4 @@
-# UrbanIndie  ![Project Logo](./Images/Vector.png)  (InProgress)
+# UrbanIndie  ![Project Logo](./Images/Vector.png)  
 
 
 
